@@ -1,0 +1,46 @@
+
+*{ 
+box-sizing: border-box;
+padding: 0px;
+margin: 0px;
+border: 1px solid grey;
+}
+img{
+	max-width: 100%;
+	height: 30vh;
+}
+h1, h2{
+	color:blue;
+   text-align: center;
+	}
+#home{
+	color:blue;
+	background-image: url('../images/hello.jpg') ;
+	max-width: 100%;
+	}
+ a:hover{
+	 color:green;
+}
+a{
+	text-decoration:none;
+}
+
+#skills{
+	text-align: center;
+	background color:skyblue;
+	padding:60px;
+}
+#about-us{
+	padding:1%;
+}
+#views{
+padding:0px;
+}
+#contact {
+	color:skyblue;
+	background-color: black;
+	max-width:100%;     
+} 
+ a:hover{
+   color:blue;
+}
